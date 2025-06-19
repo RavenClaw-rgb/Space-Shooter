@@ -1,0 +1,99 @@
+﻿  Game.cpp
+  main.cpp
+  Player.cpp
+  pp.cpp
+  pp1.cpp
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(38,44): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(38,36): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(47,27): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(54,28): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(60,27): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(66,25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,66): warning C4244:         with
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,66): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,66): warning C4244:             T=unsigned int
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,66): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,66): warning C4244:         and
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,66): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,66): warning C4244:             T=float
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,66): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,45): warning C4244:         with
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,45): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,45): warning C4244:             T=unsigned int
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,45): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,45): warning C4244:         and
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,45): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,45): warning C4244:             T=float
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(75,45): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(143,44): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(143,36): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(150,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(156,29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(162,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(168,25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,65): warning C4244:         with
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,65): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,65): warning C4244:             T=unsigned int
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,65): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,65): warning C4244:         and
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,65): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,65): warning C4244:             T=float
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,65): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,44): warning C4244:         with
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,44): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,44): warning C4244:             T=unsigned int
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,44): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,44): warning C4244:         and
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,44): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,44): warning C4244:             T=float
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(177,44): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(183,11): warning C4101: 'evnt': unreferenced local variable
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(238,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(238,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(244,27): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(248,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(248,28): warning C4244:         with
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(248,28): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(248,28): warning C4244:             T=unsigned int
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(248,28): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(254,27): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(258,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(258,34): warning C4244:         with
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(258,34): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(258,34): warning C4244:             T=unsigned int
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(258,34): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(264,28): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(268,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(268,34): warning C4244:         with
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(268,34): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(268,34): warning C4244:             T=unsigned int
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(268,34): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,68): warning C4244:         with
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,68): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,68): warning C4244:             T=unsigned int
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,68): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,68): warning C4244:         and
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,68): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,68): warning C4244:             T=float
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,68): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,48): warning C4244:         with
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,48): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,48): warning C4244:             T=unsigned int
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,48): warning C4244:         ]
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,48): warning C4244:         and
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,48): warning C4244:         [
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,48): warning C4244:             T=float
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(604,48): warning C4244:         ]
+  pp2.cpp
+  Generating Code...
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(139,1): warning C4715: 'CheckGame': not all control paths return a value
+E:\Documents\Assignments\PF\PF_Game\PF_Game\pp1.cpp(233,1): warning C4715: 'PauseGame': not all control paths return a value
+  PF_Game.vcxproj -> E:\Documents\Assignments\PF\PF_Game\Debug\PF_Game.exe
+  E:\Documents\Assignments\PF\PF_Game\PF_Game\Textures\ship.png.png
+  1 File(s) copied
